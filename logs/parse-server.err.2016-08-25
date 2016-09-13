@@ -1,0 +1,7 @@
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2016-08-25T20:28:12.576Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2016-08-25T20:31:09.941Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2016-08-25T20:37:10.568Z"}
+{"functionName":"hello","params":{"score":1337,"playerName":"Sean Plott","cheatMode":false},"level":"info","message":"Ran cloud function hello for user undefined with:\n  Input: {\"score\":1337,\"playerName\":\"Sean Plott\",\"cheatMode\":false}\n  Result: \"Hi\"","timestamp":"2016-08-25T20:45:13.275Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2016-08-25T21:01:46.026Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2016-08-25T21:02:56.217Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2016-08-25T22:25:54.585Z"}
